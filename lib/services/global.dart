@@ -19,6 +19,8 @@ String fecSystem =  DateTime.now().toString().substring(0,10);
 int nextSync=0;
 int isConectadoInternet = 0;
 int idSync=0;
+String platformImei = 'Unknown';
+String uniqueId = "Unknown";
 
 
 void showSnackBar(BuildContext context, String message) {
