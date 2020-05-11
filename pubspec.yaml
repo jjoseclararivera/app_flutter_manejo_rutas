@@ -17,6 +17,11 @@ environment:
   sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
+
+  #maps_curved_line: ^0.1.1
+  json_serializable: ^2.0.2
+  google_maps_flutter: ^0.5.11
+  url_launcher: ^5.4.5
   http: ^0.12.0+4
   sqflite: any
   path_provider: any
@@ -25,15 +30,23 @@ dependencies:
   shared_preferences: ^0.5.2
   geolocator: ^5.3.1
 
+  #flutter_sms: ^2.0.1+2
+
+
   flutter:
     sdk: flutter
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
+  font_awesome_flutter: ^8.8.1
 
 dev_dependencies:
+  pedantic: ^1.4.0
+  build_runner: ^1.2.7
+
   flutter_test:
     sdk: flutter
+
 
 
 # For information on the generic Dart part of this file, see the
