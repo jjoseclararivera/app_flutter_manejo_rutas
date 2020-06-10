@@ -1,6 +1,20 @@
-# crecosaappcobranza
+# Applicacion en Flutter
 
-Una aplicacion movil para cobranza en la empresa crecosa
+Una aplicacion movil con las siguientes caracteristicas
+1. Consumo de api-rest
+2. Geolocalizacion
+3. manejo de map => json
+4. sqlite
+5. temporizadores 
+6. uso de async and sync
+7. uso de mapbox
+8. uso de channel para send sms
+9. uso de channel para sendprint-termal
+
+Y mas 
+
+# Juan Jose Clara
+
 
 ## Getting Started
 
